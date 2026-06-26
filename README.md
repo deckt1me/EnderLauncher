@@ -56,11 +56,11 @@ APK будет в папке `app_pojavlauncher/build/outputs/apk/debug/`.
 
 ## Статус
 
-* [x] OpenJDK 8: ARM32, ARM64, x86, x86_64
-* [x] OpenJDK 17: ARM32, ARM64, x86, x86_64
-* [x] OpenJDK 21: ARM32, ARM64, x86, x86_64
-* [x] Установщик модов (headless)
-* [x] Установщик модов с GUI
+* [ ] OpenJDK 8: ARM32, ARM64, x86, x86_64
+* [ ] OpenJDK 17: ARM32, ARM64, x86, x86_64
+* [ ] OpenJDK 21: ARM32, ARM64, x86, x86_64
+* [?] Установщик модов (headless)
+* [?] Установщик модов с GUI
 * [x] OpenGL в среде OpenJDK
 * [x] OpenAL (работает на большинстве устройств)
 * [x] Поддержка Minecraft 1.12.2 и ниже
